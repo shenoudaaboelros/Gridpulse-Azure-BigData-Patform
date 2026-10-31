@@ -2,7 +2,7 @@ USE GridLakehouseDB;
 
 -- ==========================================
 -- Gold Layer: Analytical Datamarts & Aggregations
--- ==========================================
+-- =========================================
 
 -- 1. Daily Region Energy Consumption Summary
 DROP EXTERNAL TABLE gold_region_daily_consumption;
