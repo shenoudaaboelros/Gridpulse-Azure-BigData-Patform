@@ -1,6 +1,6 @@
 USE GridLakehouseDB;
 
--- ==========================================
+-- =========================================
 -- 1. Regions Table
 -- ==========================================
 IF OBJECT_ID('silver_regions', 'U') IS NOT NULL DROP EXTERNAL TABLE silver_regions;
