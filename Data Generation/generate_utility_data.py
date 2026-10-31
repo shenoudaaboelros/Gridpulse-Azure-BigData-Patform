@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Smart Utility Intelligence Platform - Synthetic Data Generator with Azure Event Hubs Integration
+Smart Utility Intelligence Platform  Synthetic Data Generator with Azure Event Hubs Integration
 
 Generates 9 tables: regions, assets, customers, meters, asset_operations_hourly,
 meter_readings, weather_hourly, operational_events, billing_monthly
