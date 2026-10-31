@@ -73,6 +73,3 @@ The live Power BI operational command center empowers utility operators to:
   
 <img width="1121" height="628" alt="WhatsApp Image 2026-10-27 at 10 55 54 PM" src="https://github.com/user-attachments/assets/63668445-6753-4003-bb50-c79d1e7f6f51" />
 
----
-
-*Developed with Shereen Mohamed as part of the Graduation project Big Data Track | Samsung Innovation Campus (2026)*
